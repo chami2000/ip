@@ -1,0 +1,24 @@
+{
+  "name": "@fire-breath/downdogtb",
+  "appName": "DownDogTB",
+  "version": "1.7.3",
+  "description": "Downdog Yoga WebApp",
+  "packageType": "mods",
+  "websiteURL": "https://www.downdogapp.com/web",
+  "main": "dist/userScript.js",
+  "author": "Fire Breath",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "repository": {
+    "url": "https://github.com/fire-breath/DownDogTB"
+  },
+  "license": "GPL-3.0-only"
+}
